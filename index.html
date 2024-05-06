@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>pbaw</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link id="stylesheet" rel="stylesheet" href="style/light.css">
+    </head>
+    <body>
+        <div id="wrap">
+            <div class="tooltip">
+                <img id="blobcat" src="img/light/blobbingo.svg" alt="koteł">
+                <span class="tooltiptext">
+                    <span style="font-weight: 500; display: inline-block; margin-bottom: 6px;">Blobbingo</span><br>
+                    kot: tak<br>
+                    programowanie: B-<br>
+                    urok: A+<br>
+                    status: <span id="blob_status">obudzony</span><br>
+                    nastrój: <span id="blob_mood">gotów do pracy! •⩊•</span>
+                </span>
+            </div> 
+            <section>
+                <h1>
+                    projektowanie bazodanowych aplikacji webowych
+                </h1>
+                <div id="wave_print" class="wavy">
+                    <script>
+                        var waveElement = document.getElementById("wave_print");
+                        var print = "";
+                        let text = "kot jest super fajny na 100%";
+                        let id = 1;
+                        for (let word of text.split(" ")) {
+                            print += "<div>";
+                            for (let i = 0; i < word.length; i++) {
+                                print += `<span style='--wave:${id++}'>${word.substring(i, i+1)}</span>`;
+                            }
+                            print += "&nbsp;</div>";
+                        }
+                        waveElement.innerHTML = print;
+                    </script>
+                </div>
+                <h2>skróty</h2>
+                <ul>
+                    <li><a href="https://github.com/marlenageborska" target="_blank">GitHub MG</a></li>
+                    <li><a href="https://github.com/blobbingo" target="_blank">mój GitHub</a></li>
+                </ul>
+                <h2>zadania</h2>
+                <ul>
+                    
+                </ul>
+            </section>
+        </div>
+        <script src="js/responsiveLightDarkMode.js"></script>
+    </body>
+</html>

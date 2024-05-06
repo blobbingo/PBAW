@@ -1,0 +1,26 @@
+@import "master.css";
+
+:root {
+    --font-color: #272727;
+    --back-color: rgba(255, 255, 255, 0.6);
+}
+
+html {
+    background-image: url(../img/light/tlo.jpg);
+}
+section {
+    color: var(--font-color);
+    border-image-source: url(../img/light/border.png);
+    background-color: var(--back-color);
+}
+li:before {
+    color: transparent;  
+    text-shadow: 0 0 var(--font-color);
+}
+.tooltip .tooltiptext {
+    background-color: var(--back-color);
+    color: var(--font-color);
+}
+.tooltip .tooltiptext::after {
+    border-color: transparent var(--back-color) transparent transparent;
+}

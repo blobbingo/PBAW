@@ -1,0 +1,129 @@
+@font-face {
+    font-family: Dosis;
+    src: url(../font/Dosis-VariableFont_wght.ttf);
+}
+* {
+    box-sizing: border-box;
+}
+html {
+    background-size: 1110px;
+    font-family: Dosis, sans-serif;
+    line-height: 1.3em;
+    font-size: 18pt;
+}
+#wrap {
+    margin: 48px 0 32px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img {
+    width: 200px;
+}
+section {
+    max-width: 540px;
+    display: block;
+    margin: 20px 10px 0;
+    padding: 28px 28px 12px;
+    border: 12px solid transparent;
+    border-image-slice: 27;
+    border-image-repeat: round;
+}
+h1 {
+    font-size: 26pt;
+    text-align: center;
+    margin-top: 0;
+    line-height: 1.15em;
+}
+h2 {
+    font-size: 20pt;
+    margin-bottom: 8px;
+}
+h1, h2 {
+    font-weight: 600;
+}
+ul {
+    list-style: none;
+    margin-left: 0;
+    margin-top: 0;
+    padding-left: 0;
+}
+li {
+    padding-left: 1.625em;
+    text-indent: -1.625em;
+    margin-bottom: 6px;
+}
+li:before {
+    content: "\1F431";
+    font-size: 12pt;
+    padding-right: 12px;
+    vertical-align: top;
+}
+a {
+    text-decoration: none;
+}
+
+/* tooltip  */
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    padding: 8px 10px;
+    border-radius: 4px;
+    position: absolute;
+    z-index: 1;
+    top: 16px;
+    left: 105%;
+    margin-left: 16px;
+    opacity: 0;
+    transition: opacity 0.1s;
+    font-size: 12pt;
+    line-height: 1.3em;
+}
+.tooltiptext #blob_mood {
+    font-style: italic;
+}
+.tooltip .tooltiptext::after {
+    content: " ";
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    margin-top: -12px;
+    border-width: 12px;
+    border-style: solid;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+} 
+
+/* falowanie */
+.wavy {
+    text-align: center;
+}
+.wavy div {
+    display: inline-flex;
+    position: relative;
+    top: 0;
+    left: 0.125em;
+}
+.wavy span { 
+    position: relative; 
+    display: inline-block;
+    animation: animate 1.2s ease-in-out infinite; 
+    animation-delay: calc(-3s + (0.08s * var(--wave)));
+} 
+@keyframes animate { 
+    0% { 
+        transform: translateY(3px); 
+    }
+    50% { 
+        transform: translateY(0); 
+    }  
+    100% { 
+        transform: translateY(3px); 
+    }
+}

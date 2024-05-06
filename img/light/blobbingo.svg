@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with enve https://maurycyliebner.github.io -->
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 480 400">
+ <g transform="translate(235.519 242.305)">
+  <g transform="translate(5.88113 -32.4438)">
+   <g transform="rotate(0)">
+    <g transform="scale(2.8 2.8)">
+     <g transform="skewX(0) skewY(0)">
+      <g opacity="1" transform="translate(-235.519 -242.305)">
+       <g>
+        <g transform="translate(175.322 233.514)">
+         <g>
+          <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite" attributeName="transform" dur="4s" values="0 0;0 0;3.5 0;0 0;3.5 0;0 0" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+          <g>
+           <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite" attributeName="transform" dur="4s" values="0 0;0 0;0 -2.5;0 0;0 -2.5;0 0" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+           <g transform="rotate(0)">
+            <g transform="scale(1 1)">
+             <g>
+              <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="scale" repeatCount="indefinite" attributeName="transform" dur="4s" values="1 1;1 1;1 1.01;1 1;1 1.01;1 1" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+              <g>
+               <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="skewX" repeatCount="indefinite" attributeName="transform" dur="4s" values="0;0;-2.7;0;-2.7;0" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+               <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="skewY" repeatCount="indefinite" attributeName="transform" dur="4s" values="0;0;3.6;0;3.6;0" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+               <g opacity="1" transform="translate(-175.322 -233.514)">
+                <g>
+                 <g transform="translate(0 0)">
+                  <g transform="translate(189.541 269.345)">
+                   <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                     <g transform="skewX(0) skewY(0)">
+                      <g opacity="1" transform="translate(0 0)">
+                       <path stroke-width="3.5" d="M-0.144176 -1.64504C-10.0282 -5.73496 -14.0948 -13.9871 -1.84023 -35.7548C19.3804 -73.4487 -28.6203 -100.081 -35.4971 -84.9234C-42.3739 -69.7659 -11.2727 -70.7962 -14.418 -49.5268C-16.869 -32.9529 -30.3758 -20.5788 -25.5253 -7.41412C-20.6748 5.75057 -8.2502 18.1868 8.05092 17.6114" fill="#ffb460" stroke="none"/>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                 <g transform="translate(0 0)">
+                  <g transform="translate(185.29 192.728)">
+                   <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                     <g transform="skewX(0) skewY(0)">
+                      <g opacity="1" transform="translate(0 0)">
+                       <path stroke-width="3.5" d="M-0.106236 -0.062729C-0.106236 -0.062729 -1.5578 1.40729 -1.5578 1.40729C-3.41276 0.150705 -0.461998 5.23574 -4.91023 4.66203C-9.35846 4.08832 -9.57319 4.36307 -8.51445 7.91677C-7.4557 11.4705 -12.6346 10.5646 -11.6966 11.3111C-11.6966 11.3111 -12.9145 12.7032 -12.9145 12.7032C-12.9145 12.7032 -36.8511 0.468447 -30.6052 -9.36893C-24.3592 -19.2063 -0.106236 -0.062729 -0.106236 -0.062729Z" fill="#f3e9d6" stroke="none"/>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                 <g transform="translate(0 0)">
+                  <g transform="translate(189.541 269.345)">
+                   <g transform="rotate(0)">
+                    <g transform="scale(1 1)">
+                     <g transform="skewX(0) skewY(0)">
+                      <g opacity="1" transform="translate(0 0)">
+                       <path stroke-width="3.5" d="M-0.144176 -1.64504C-10.0282 -5.73496 -14.0948 -13.9871 -1.84023 -35.7548C19.3804 -73.4487 -28.6203 -100.081 -35.4971 -84.9234C-42.3739 -69.7659 -7.67046 -70.4195 -14.0777 -49.8957C-18.9943 -34.147 -28.6974 -18.6796 -23.7987 -4.65159C-18.9 9.37639 -8.2502 18.1868 8.05092 17.6114" fill="none" stroke="#131313"/>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g transform="translate(252.979 249.28)">
+         <g>
+          <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite" attributeName="transform" dur="4s" values="0 0;0 0;0 -0.8;0 0;0 -0.8;0 0" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+          <g transform="rotate(0)">
+           <g>
+            <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="scale" repeatCount="indefinite" attributeName="transform" dur="4s" values="1 1;1 1;0.97 1;1 1;0.97 1;1 1" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+            <g>
+             <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="scale" repeatCount="indefinite" attributeName="transform" dur="4s" values="1 1;1 1;1 1.013;1 1;1 1.013;1 1" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+             <g transform="skewX(0) skewY(0)">
+              <g opacity="1" transform="translate(-252.979 -249.28)">
+               <g>
+                <g transform="translate(0 0)">
+                 <g transform="translate(315.097 278.223)">
+                  <g transform="rotate(0)">
+                   <g transform="scale(-1 1)">
+                    <g transform="skewX(0) skewY(0)">
+                     <g opacity="1" transform="translate(0 0)">
+                      <path stroke-width="3.5" d="M4.9184 4.67545C20.1975 35.0747 106.245 32.9168 122.695 1.74397C134.276 -20.2006 123.308 -74.2495 50.6172 -73.984C7.63642 -73.827 -7.65609 -20.3427 4.9184 4.67545Z" fill="#ffb460" stroke="none"/>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+                <g transform="translate(0 0)">
+                 <g transform="translate(272.909 260.191)">
+                  <g transform="rotate(0)">
+                   <g transform="scale(1 1)">
+                    <g transform="skewX(0) skewY(0)">
+                     <g opacity="1" transform="translate(0 0)">
+                      <path stroke-width="3.5" d="M-0.151409 7.94699C-28.6709 -9.10098 -34.008 23.2994 -66.0031 32.3455C-30.3356 53.4403 23.1215 44.1604 36.9723 24.7859C36.9723 24.7859 25.6143 -10.554 -0.151409 7.94699Z" fill="#f3e9d6" stroke="none"/>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+                <g transform="translate(0 0)">
+                 <g transform="translate(315.097 278.021)">
+                  <g transform="rotate(0)">
+                   <g transform="scale(-1 1)">
+                    <g transform="skewX(0) skewY(0)">
+                     <g opacity="1" transform="translate(0 0)">
+                      <path stroke-width="3.5" d="M4.9184 4.67545C20.1975 35.0747 106.77 31.8148 123.22 0.642029C134.8 -21.3025 123.308 -74.2495 50.6172 -73.984C7.63642 -73.827 -7.65609 -20.3427 4.9184 4.67545Z" fill="none" stroke="#131313"/>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+                <g transform="translate(234.501 219.407)">
+                 <g>
+                  <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite" attributeName="transform" dur="4s" values="0 0;0 0;1 0;0 0;1 0;0 0" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+                  <g transform="translate(0 0)">
+                   <g>
+                    <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="rotate" repeatCount="indefinite" attributeName="transform" dur="4s" values="0;0;2;0;2;0" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+                    <g transform="scale(1 1)">
+                     <g transform="skewX(0) skewY(0)">
+                      <g opacity="1" transform="translate(-234.501 -219.407)">
+                       <g>
+                        <g transform="translate(0 0)">
+                         <g transform="translate(250.644 220.369)">
+                          <g transform="rotate(0)">
+                           <g transform="scale(-1 1)">
+                            <g transform="skewX(0) skewY(0)">
+                             <g opacity="1" transform="translate(0 0)">
+                              <path stroke-width="3.5" d="M-6.40435 -7.4927C0.86859 -21.2355 30.866 -24.349 36.631 -24.9757C42.396 -25.6024 34.5484 22.5715 31.3598 23.062" fill="#ffb460" stroke="#131313"/>
+                             </g>
+                            </g>
+                           </g>
+                          </g>
+                         </g>
+                        </g>
+                        <g transform="translate(0 0)">
+                         <g transform="translate(220.812 203.192)">
+                          <g transform="rotate(0)">
+                           <g transform="scale(1 1)">
+                            <g transform="skewX(0) skewY(0)">
+                             <g opacity="1" transform="translate(0 0)">
+                              <path stroke-width="3.5" d="M0.596027 -1.99617C-6.93221 -3.4731 -4.71716 0.738361 2.81397 4.94777C-5.27969 -1.35575 -7.5353 3.48453 3.34573 11.962C-5.6926 2.07417 -6.71586 9.0603 2.83767 18.59C-4.13944 8.90589 -4.9891 17.8623 0.500267 21.2244C-4.71957 19.4227 -1.47377 26.5452 3.62635 35.3381C11.6901 35.5397 32.2066 21.7091 32.0076 14.3633C26.3655 3.792 3.56336 -1.41402 0.596027 -1.99617Z" fill="#f3e9d6" stroke="none"/>
+                             </g>
+                            </g>
+                           </g>
+                          </g>
+                         </g>
+                        </g>
+                       </g>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+                <g transform="translate(296.659 218.139)">
+                 <g transform="translate(-1 0)">
+                  <g>
+                   <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="rotate" repeatCount="indefinite" attributeName="transform" dur="4s" values="0;0;-2;0;-2;0" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+                   <g transform="scale(1 1)">
+                    <g transform="skewX(0) skewY(0)">
+                     <g opacity="1" transform="translate(-296.659 -218.139)">
+                      <g>
+                       <g transform="translate(0 0)">
+                        <g transform="translate(279.227 218.981)">
+                         <g transform="rotate(0)">
+                          <g transform="scale(1 1)">
+                           <g transform="skewX(0) skewY(0)">
+                            <g opacity="1" transform="translate(0 0)">
+                             <path stroke-width="3.5" d="M-3.89377 -5.81899C3.37916 -19.5618 30.866 -24.349 36.631 -24.9757C42.396 -25.6024 35.0418 21.3407 31.1173 23.303" fill="#ffb460" stroke="#131313"/>
+                            </g>
+                           </g>
+                          </g>
+                         </g>
+                        </g>
+                       </g>
+                       <g transform="translate(0 0)">
+                        <g transform="translate(309.633 202.077)">
+                         <g transform="rotate(0)">
+                          <g transform="scale(-1 1)">
+                           <g transform="skewX(0) skewY(0)">
+                            <g opacity="1" transform="translate(0 0)">
+                             <path stroke-width="3.5" d="M0.596027 -1.99617C-6.93221 -3.4731 -4.71716 0.738361 2.81397 4.94777C-5.27969 -1.35575 -7.5353 3.48453 3.34573 11.962C-5.6926 2.07417 -6.71586 9.0603 2.83767 18.59C-4.13944 8.90589 -4.9891 17.8623 0.500267 21.2244C-4.71957 19.4227 -1.47377 26.5452 3.62635 35.3381C11.6901 35.5397 29.1451 21.5633 28.9461 14.2175C23.304 3.64622 3.56336 -1.41402 0.596027 -1.99617Z" fill="#f3e9d6" stroke="none"/>
+                            </g>
+                           </g>
+                          </g>
+                         </g>
+                        </g>
+                       </g>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+                <g transform="translate(272.577 259.716)">
+                 <g transform="translate(0 0)">
+                  <g>
+                   <animateTransform keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite" attributeName="transform" dur="4s" values="0 0;0 0;0 -1;0 0;0 -1;0 0" calcMode="spline" keyTimes="0;0;0.25;0.5;0.75;1"/>
+                   <g transform="rotate(0)">
+                    <g transform="scale(1 0.981333)">
+                     <g transform="skewX(0) skewY(0)">
+                      <g opacity="1" transform="translate(-272.577 -259.716)">
+                       <g>
+                        <g transform="translate(0 0)">
+                         <g transform="translate(284.547 243.278)">
+                          <g transform="rotate(0)">
+                           <g transform="scale(1 1)">
+                            <g transform="skewX(0) skewY(0)">
+                             <g opacity="1" transform="translate(0 0)">
+                              <path stroke-width="2" fill="#131313" stroke="#131313">
+                               <animate keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" repeatCount="indefinite" attributeName="d" dur="4s" values="M-3.30462 16.0825C-3.41477 8.48186 -0.881232 4.72178 1.67985 4.76201C4.24093 4.80225 6.82955 8.64279 6.82955 16.2434C6.82955 23.844 4.35108 27.6041 1.84508 27.5639C-0.660924 27.5237 -3.19447 23.6831 -3.30462 16.0825Z;M-3.30462 16.0825C-3.41477 8.48186 -0.881232 4.72178 1.67985 4.76201C4.24093 4.80225 6.82955 8.64279 6.82955 16.2434C6.82955 23.844 4.35108 27.6041 1.84508 27.5639C-0.660924 27.5237 -3.19447 23.6831 -3.30462 16.0825Z;M-2.75061 22.5633C-2.9613 18.1425 -0.327218 24.1644 2.23386 24.2046C4.79494 24.2448 7.54185 18.6012 7.54185 22.7243C7.54185 24.0811 4.7459 27.5642 2.16166 27.5639C-0.740676 27.5636 -2.68201 24.0026 -2.75061 22.5633Z;M-3.30462 16.0825C-3.41477 8.48186 -0.881232 4.72178 1.67985 4.76201C4.24093 4.80225 6.82955 8.64279 6.82955 16.2434C6.82955 23.844 4.35108 27.6041 1.84508 27.5639C-0.660924 27.5237 -3.19447 23.6831 -3.30462 16.0825Z;M-3.30462 16.0825C-3.41477 8.48186 -0.881232 4.72178 1.67985 4.76201C4.24093 4.80225 6.82955 8.64279 6.82955 16.2434C6.82955 23.844 4.35108 27.6041 1.84508 27.5639C-0.660924 27.5237 -3.19447 23.6831 -3.30462 16.0825Z" calcMode="spline" keyTimes="0;0.85;0.9;0.95;1"/>
+                              </path>
+                             </g>
+                            </g>
+                           </g>
+                          </g>
+                         </g>
+                        </g>
+                        <g transform="translate(0 0)">
+                         <g transform="translate(257.085 243.829)">
+                          <g transform="rotate(0)">
+                           <g transform="scale(1 1)">
+                            <g transform="skewX(0) skewY(0)">
+                             <g opacity="1" transform="translate(0 0)">
+                              <path stroke-width="2" fill="#131313" stroke="#131313">
+                               <animate keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" repeatCount="indefinite" attributeName="d" dur="4s" values="M-3.30462 16.0825C-3.41477 8.48186 -0.885927 5.00847 1.67515 5.0487C4.23623 5.08894 6.82955 8.64279 6.82955 16.2434C6.82955 23.844 4.35108 27.6041 1.84508 27.5639C-0.660924 27.5237 -3.19447 23.6831 -3.30462 16.0825Z;M-3.30462 16.0825C-3.41477 8.48186 -0.885927 5.00847 1.67515 5.0487C4.23623 5.08894 6.82955 8.64279 6.82955 16.2434C6.82955 23.844 4.35108 27.6041 1.84508 27.5639C-0.660924 27.5237 -3.19447 23.6831 -3.30462 16.0825Z;M-3.09503 21.4197C-3.21686 18.989 -0.666873 24.031 1.89421 24.0712C4.45529 24.1115 7.19638 18.9636 7.03914 21.5806C6.88424 24.1587 4.35108 27.3868 1.84508 27.3466C-0.660924 27.3064 -2.97256 23.863 -3.09503 21.4197Z;M-3.30462 16.0825C-3.41477 8.48186 -0.885927 5.00847 1.67515 5.0487C4.23623 5.08894 6.82955 8.64279 6.82955 16.2434C6.82955 23.844 4.35108 27.6041 1.84508 27.5639C-0.660924 27.5237 -3.19447 23.6831 -3.30462 16.0825Z;M-3.30462 16.0825C-3.41477 8.48186 -0.885927 5.00847 1.67515 5.0487C4.23623 5.08894 6.82955 8.64279 6.82955 16.2434C6.82955 23.844 4.35108 27.6041 1.84508 27.5639C-0.660924 27.5237 -3.19447 23.6831 -3.30462 16.0825Z" calcMode="spline" keyTimes="0;0.85;0.9;0.95;1"/>
+                              </path>
+                             </g>
+                            </g>
+                           </g>
+                          </g>
+                         </g>
+                        </g>
+                       </g>
+                      </g>
+                     </g>
+                    </g>
+                   </g>
+                  </g>
+                 </g>
+                </g>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs/>
+</svg>
