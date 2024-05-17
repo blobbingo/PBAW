@@ -16,15 +16,15 @@
         </form>	
         <?php
         //wyświeltenie listy błędów, jeśli istnieją
-        if (isset($messages)) {
-            if (count($messages) > 0) {
-                echo '<ol style="margin: 30px; padding: 20px 20px 20px 40px; border-radius: 5px; background-color: #ff00ff; width:300px;">';
-                foreach ($messages as $key => $msg) {
-                    echo '<li>'.$msg.'</li>';
+            if (isset($messages)) {
+                if (count($messages) > 0) {
+                    echo '<ol style="margin: 30px; padding: 20px 20px 20px 40px; border-radius: 5px; background-color: #ff00ff; width:300px;">';
+                    foreach ($messages as $key => $msg) {
+                        echo '<li>'.$msg.'</li>';
+                    }
+                    echo '</ol>';
                 }
-                echo '</ol>';
             }
-        }
         ?>
         <?php if (isset($result)) { ?>
         <div style="margin: 20px; padding: 10px; border-radius: 5px; background-color: #ff0; width:300px;">

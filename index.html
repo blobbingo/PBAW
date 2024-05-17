@@ -11,9 +11,8 @@
             <div class="tooltip">
                 <img id="blobcat" src="img/light/blobbingo.svg" alt="koteł">
                 <span class="tooltiptext">
-                    <span style="font-weight: 500; display: inline-block; margin-bottom: 6px;">Blobbingo</span><br>
+                    <span style="font-weight: 500; display: inline-block; margin-bottom: 4px;">Blobbingo</span><br>
                     kot: tak<br>
-                    programowanie: B-<br>
                     urok: A+<br>
                     status: <span id="blob_status">obudzony</span><br>
                     nastrój: <span id="blob_mood">gotów do pracy! •⩊•</span>
@@ -25,18 +24,18 @@
                 </h1>
                 <div id="wave_print" class="wavy">
                     <script>
-                        var waveElement = document.getElementById("wave_print");
-                        var print = "";
+                        let waveElement = document.getElementById("wave_print");
+                        let wavyText = "";
                         let text = "kot jest super fajny na 100%";
                         let id = 1;
-                        for (let word of text.split(" ")) {
-                            print += "<div>";
-                            for (let i = 0; i < word.length; i++) {
-                                print += `<span style='--wave:${id++}'>${word.substring(i, i+1)}</span>`;
+                        for(let word of text.split(" ")) {
+                            wavyText += "<div>";
+                            for(let i = 0; i < word.length; i++) {
+                                wavyText += `<span style='--wave:${id++}'>${word.substring(i, i+1)}</span>`;
                             }
-                            print += "&nbsp;</div>";
+                            wavyText += "&nbsp;</div>";
                         }
-                        waveElement.innerHTML = print;
+                        waveElement.innerHTML = wavyText;
                     </script>
                 </div>
                 <h2>skróty</h2>
@@ -45,8 +44,24 @@
                     <li><a href="https://github.com/blobbingo" target="_blank">mój GitHub</a></li>
                 </ul>
                 <h2>zadania</h2>
-                <ul>
-                    <li><a href="https://github.com/blobbingo/PBAW/tree/master/01_widok_kontroler">01_widok_kontroler</a></li>
+                <ul id="link_list">
+                    <script>
+                        let linkElement = document.getElementById("link_list");
+                        let stages = [
+                            "01_widok_kontroler",
+                            "02_ochrona_zasobow",
+                            "03_szablonowanie"
+                        ];
+                        let linkList = "";
+                        for(let link of stages) {
+                            linkList += `<li><a href='https://github.com/blobbingo/PBAW/tree/master/stages/${link}' target="_blank">${link}</a>`;
+                            if(window.location.hostname === "localhost") {
+                                linkList += `<a href='stages/${link}' target="_blank"><small>(local)</small></a>`;
+                            }
+                            linkList += `</li>`;
+                        }
+                        linkElement.innerHTML = linkList;
+                    </script>
                 </ul>
             </section>
         </div>

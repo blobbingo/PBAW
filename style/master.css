@@ -62,6 +62,10 @@ li:before {
 a {
     text-decoration: none;
 }
+small {
+    margin-left: 4px;
+    font-size: 10pt;
+}
 
 /* tooltip  */
 .tooltip {
@@ -75,7 +79,7 @@ a {
     border-radius: 4px;
     position: absolute;
     z-index: 1;
-    top: 16px;
+    top: 30px;
     left: 105%;
     margin-left: 16px;
     opacity: 0;
